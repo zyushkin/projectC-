@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/zaharyushkin/Desktop/код лаба№2/job"
+relocations:     []
+...
